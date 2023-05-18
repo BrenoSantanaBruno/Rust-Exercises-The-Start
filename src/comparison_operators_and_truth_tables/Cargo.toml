@@ -1,0 +1,9 @@
+[package]
+name = "comparison_operators_and_truth_tables"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"

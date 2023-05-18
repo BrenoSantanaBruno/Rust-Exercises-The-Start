@@ -1,0 +1,5 @@
+/Users/brenobruno/CLionProjects/tcm_security_academy_rust101/src/comparison_operators_and_truth_tables/target/debug/deps/comparison_operators_and_truth_tables-0495ea0fc2dd80bd: src/main.rs
+
+/Users/brenobruno/CLionProjects/tcm_security_academy_rust101/src/comparison_operators_and_truth_tables/target/debug/deps/comparison_operators_and_truth_tables-0495ea0fc2dd80bd.d: src/main.rs
+
+src/main.rs:

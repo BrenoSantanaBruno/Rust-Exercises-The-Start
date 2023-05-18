@@ -1,0 +1,1 @@
+/Users/brenobruno/CLionProjects/tcm_security_academy_rust101/src/modules_and_libraries/target/debug/modules_and_libraries: /Users/brenobruno/CLionProjects/tcm_security_academy_rust101/src/modules_and_libraries/src/main.rs

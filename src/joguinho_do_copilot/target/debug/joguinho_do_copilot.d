@@ -1,0 +1,1 @@
+/Users/brenobruno/CLionProjects/tcm_security_academy_rust101/src/joguinho_do_copilot/target/debug/joguinho_do_copilot: /Users/brenobruno/CLionProjects/tcm_security_academy_rust101/src/joguinho_do_copilot/src/main.rs

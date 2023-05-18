@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/calc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/comparison_operators_and_truth_tables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/conditional_statements/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/dependecies/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/joguinho_do_copilot/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/math_operators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/modules_and_libraries/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/blockip_scan/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/loops/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/modules_and_libraries/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/dependecies/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/math_operators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/calc/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/comparison_operators_and_truth_tables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/conditional_statements/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/joguinho_do_copilot/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/blockip_scan/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/loops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/functions/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
