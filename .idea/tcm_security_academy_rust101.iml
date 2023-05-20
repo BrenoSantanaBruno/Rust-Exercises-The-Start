@@ -14,6 +14,16 @@
       <sourceFolder url="file://$MODULE_DIR$/src/blockip_scan/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/functions/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Generics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Structures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/challnge_c_solution/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/file_input_and_output/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/references_and_borrowing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/url_shortener/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/modules_and_libraries/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/dependecies/target" />
@@ -26,6 +36,16 @@
       <excludeFolder url="file://$MODULE_DIR$/src/blockip_scan/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/challnge_c_solution/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Vectors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Structures/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Generics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/references_and_borrowing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/file_input_and_output/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/url_shortener/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

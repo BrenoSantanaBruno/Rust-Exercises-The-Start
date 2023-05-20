@@ -1,5 +1,6 @@
 #![allow(unused)]
 
+use std::fmt::Error;
 use std::io;
 use std::fs::{File, OpenOptions};
 use std::io::prelude::*;
@@ -41,17 +42,51 @@ fn main () {
     // }
 
     // let result: Result<i32, String> = divide(10, 2).unwrap();
-    let result = divide(10, 0).unwrap();
-    println!("The result is {}", result);
+    // let result = divide(10, 0).unwrap();
+    // println!("The result is {}", result);
+// ? Operator - can only be used in functions that return Result or Option
+// ? Operator - can only be used in functions that return Result or Option
+    // let result = divide(10, 0)?;
+    // println!("The result is {}", result);
 
 
-    println!("The show must go on!");
+//     let result = divide(10, 2);
+//     println!("The result is {}", result);
+//
+//
+//     println!("The show must go on!");
+// }
+//
+// fn divide(x: i32, y: i32) -> i32 {
+//     if y== 0 {
+//         panic!("Cannot divide by zero");
+//
+//    }
+// fn divide(x: i32, y: i32) -> i32 {
+//     if y== 0 {
+//         return Err(String::from("Cannot divide by zero"));
+//
+//     }
+//     x / y
+
+    let result = read_file("test.txt");
+    match result {
+        Ok(contents) => println!("The file contains: {}", contents),
+        Err(err: Error) => println!("Error: {}", err),
+    }
+
 }
 
-fn divide(x: i32, y: i32) -> Result<i32, String>{
-    if y== 0 {
-        return Err(String::from("Cannot divide by zero"));
+fn read_file(path: &str) -> Result<String, std::io::Error>{
+    let mut file: File = match File::open(path) {
+        Ok(file: File) => file,
+        Err(e: Error) => return Err(e),
+    };
+
+    let mut contents: String = String::new();
+    match file.read_to_string(&mut contents) {
+        OK(_) => Ok(contents),
+        Err(e: Error) => Err(e),
 
     }
-    Ok(x / y)
-}
+    }

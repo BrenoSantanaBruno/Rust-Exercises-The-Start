@@ -1,0 +1,1 @@
+/Users/brenobruno/CLionProjects/tcm_security_academy_rust101/src/file_input_and_output/target/debug/file_input_and_output: /Users/brenobruno/CLionProjects/tcm_security_academy_rust101/src/file_input_and_output/src/main.rs
